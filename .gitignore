@@ -1,0 +1,10 @@
+ferret\.jnl\.*
+code
+*.q.e*
+*.q.o*
+*.q
+UVic_ESCM
+tavg*
+tsi*
+rest.*
+pr
